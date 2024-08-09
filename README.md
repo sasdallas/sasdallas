@@ -11,5 +11,3 @@
   <li>⚡ Main projects: Nonsense and reduceOS</li>
   <li>📫 You can always reach me through my website's contact info at <a href="https://techdude17.com">this link</a></li>
 </ul>
-
-<b>My profile's sort of empty right now - but there's much to see behind the works! Just wait :)</b>
